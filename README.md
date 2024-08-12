@@ -1,2 +1,2 @@
 # LP-project
-Projeto feito para a cadeira Lógica para a Programação.
+Projeto Lógica para Programação 22/23
