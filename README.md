@@ -1,2 +1,2 @@
 # LP-prolog-project
-Projeto Lógica para Programação 22/23
+Lógica para Programação 22/23
